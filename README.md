@@ -1,4 +1,6 @@
 # baisc-ml-algorithms
+Assignments for the Inductive Methods of Data Analysis course.
+
 
 1. (Python) Naive Bayes
 	* implementation (GaussianNB, MultinomialNB)
